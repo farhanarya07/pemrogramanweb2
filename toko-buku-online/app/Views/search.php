@@ -5,7 +5,7 @@
     <div class="row bg-primary-subtle">
         <div class="col-6 p-5">
             <h1>Selamat Datang di Toko Buku Online</h1>
-            <p>Kami menyediakan berbagai jenis buku dari berbagai penerbit teremuka.</p>
+            <p>Kami menyediakan berbagai jenis buku dari berbagai penerbit terkemuka.</p>
             <button class="btn btn-warning">Lihat Produk</button>
         </div>
 

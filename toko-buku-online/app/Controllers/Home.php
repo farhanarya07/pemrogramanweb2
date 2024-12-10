@@ -27,4 +27,10 @@ class Home extends BaseController
         return view('submit');
     }
 
+    public function dashboard(): string
+    {
+        return view('admin/dashboard');
+    }
+    
+
 }

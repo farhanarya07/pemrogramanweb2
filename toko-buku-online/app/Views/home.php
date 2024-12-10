@@ -5,7 +5,7 @@
     <div class="row bg-primary-subtle">
         <div class="col-6 p-5">
             <h1>Selamat Datang di Toko Buku Online</h1>
-            <p>Kami menyediakan berbagai jenis buku dari berbagai penerbit teremuka.</p>
+            <p>Kami menyediakan berbagai jenis buku dari berbagai penerbit terkemuka.</p>
             <button class="btn btn-warning">Lihat Produk</button>
         </div>
 
@@ -48,7 +48,7 @@
                     <div class="card">
                         <img src="<?= base_url() ?>/images/2.jpeg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Dikta dan Hukum</h5>
+                            <h5 class="card-title">Dikta & Hukum</h5>
                             <p class="card-text">Rp 78.000</p>
                             <a href="#" class="btn btn-primary">Add to chart</a>
                         </div>
@@ -58,7 +58,7 @@
                     <div class="card">
                         <img src="<?= base_url() ?>/images/3.jpeg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Api Tauhid</h5>
+                            <h5 class="card-title">Cahaya Keagungan Cinta Sang Mujadid</h5>
                             <p class="card-text">Rp 78.000</p>
                             <a href="#" class="btn btn-primary">Add to chart</a>
                         </div>
